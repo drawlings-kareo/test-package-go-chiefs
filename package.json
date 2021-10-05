@@ -1,0 +1,25 @@
+{
+  "name": "test-package-go-chiefs",
+  "version": "0.1.0",
+  "description": "A package for learning how to version and release",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "package",
+    "Chiefs",
+    "NFL"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawlings-kareo/test-package-go-chiefs.git"
+  },
+  "author": "David Rawlings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drawlings-kareo/test-package-go-chiefs/issues"
+  },
+  "homepage": "https://github.com/drawlings-kareo/test-package-go-chiefs#readme"
+}
