@@ -11,3 +11,7 @@ export function getScore() {
 export function getAnotherScore() {
   return "24-17";
 }
+
+export function getFinalScore() {
+  return "31-20";
+}
