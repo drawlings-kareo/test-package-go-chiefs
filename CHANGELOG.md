@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.1.5...v0.2.0) (2021-10-07)
+
+
+### Bug Fixes
+
+* change default export function name ([4536281](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/453628182504181dc1856e08d79bbc3d75b40015))
+
 ### [0.1.5](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.1.4...v0.1.5) (2021-10-07)
 
 
