@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-export default function goChiefs() {
+export default function visitArrowhead() {
   console.log("Go Kansas City Chiefs!");
 }
 
