@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 export default function goChiefs() {
-  console.log("Go Chiefs!");
+  console.log("Go Kansas City Chiefs!");
 }
 
 export function getScore() {
