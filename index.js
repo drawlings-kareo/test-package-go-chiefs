@@ -15,3 +15,7 @@ export function getAnotherScore() {
 export function getFinalScore() {
   return "31-20";
 }
+
+export function getNewScore() {
+  return "0-0";
+}
