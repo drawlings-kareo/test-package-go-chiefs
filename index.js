@@ -5,17 +5,17 @@ export default function goChiefs() {
 }
 
 export function getScore() {
-  return "21-17";
+  return "21 - 17";
 }
 
 export function getAnotherScore() {
-  return "24-17";
+  return "24 - 17";
 }
 
 export function getFinalScore() {
-  return "31-20";
+  return "31 - 20";
 }
 
 export function getNewScore() {
-  return "0-0";
+  return "0 - 0";
 }
