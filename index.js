@@ -1,9 +1,13 @@
 #!/usr/bin/env node
 
 export default function getScore() {
-  console.log("Chiefs " + getChiefsScore());
+  console.log("Chiefs " + getChiefsScore() + ", Rams" + getRamsScore());
 }
 
 function getChiefsScore() {
-  return 49;
+  return 51;
+}
+
+function getRamsScore() {
+  return 54;
 }
