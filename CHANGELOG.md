@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.2](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.1...v0.2.2) (2021-10-11)
+
+
+### Bug Fixes
+
+* set returned string to empty ([5c2eb00](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/5c2eb0056cdb196201d9fd7b57cf69b3f74766d9))
+
 ### [0.2.1](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.0...v0.2.1) (2021-10-11)
 
 
