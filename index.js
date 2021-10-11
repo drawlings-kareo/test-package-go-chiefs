@@ -1,5 +1,9 @@
 #!/usr/bin/env node
 
-export default function visitArrowhead() {
-  console.log("Go Kansas City Chiefs!");
+export default function getScore() {
+  console.log("Chiefs " + getChiefsScore());
+}
+
+function getChiefsScore() {
+  return 49;
 }
