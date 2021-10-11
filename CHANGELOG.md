@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.0...v0.2.1) (2021-10-11)
+
+
+### Features
+
+* add function getChiefsScore() ([a7c1f06](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/a7c1f06d52dcf6137d493d6ad7c08202b130fe30))
+
+
+### Bug Fixes
+
+* removing lots of code ([d1db228](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/d1db228bb05531cdc66cf597e120120f7fdab064))
+* setting to blank string ([b66a9ab](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/b66a9ab342baa7ffeac463a37e87f537d667bb64))
+
 ## [0.2.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.1.5...v0.2.0) (2021-10-07)
 
 
