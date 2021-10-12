@@ -5,5 +5,5 @@ export default function getScore() {
 }
 
 function getText() {
-  return "text!!!";
+  return "text";
 }
