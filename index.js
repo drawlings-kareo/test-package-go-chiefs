@@ -5,7 +5,7 @@ export default function getScore() {
 }
 
 function get2018FinalScore() {
-  return "Chiefs " + getChiefsScore() + " - Rams " + getRamsScore();
+  return "Chiefs " + getChiefsScore() + " -- Rams " + getRamsScore();
 }
 
 function getChiefsScore() {
