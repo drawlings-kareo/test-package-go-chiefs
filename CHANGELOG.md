@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.4](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.3...v0.2.4) (2021-10-12)
+
+
+### Features
+
+* refactor text to getText() function ([ca0e97c](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/ca0e97cdf28a40abab8f360f1b883e269175122e))
+
+
+### Bug Fixes
+
+* add another character ([b78e299](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/b78e299daadd7188f0ccc759219f042738a19a68))
+* add more text ([9c9fe70](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/9c9fe706cb3cc5be2bcb8ce98ad6b1398fe0bb9b))
+
 ### [0.2.3](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.2...v0.2.3) (2021-10-12)
 
 
