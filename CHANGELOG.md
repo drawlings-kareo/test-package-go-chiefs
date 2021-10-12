@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.3.1...v0.4.0) (2021-10-12)
+
+
+### Features
+
+* add 2018 Chiefs Rams score ([065cc9c](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/065cc9c52f4bfbd8e8f7a6df4ff5784e5fd78168))
+
 ### [0.3.1](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.3.0...v0.3.1) (2021-10-12)
 
 ## [0.3.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.2.4...v0.3.0) (2021-10-12)
