@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
 export default function getScore() {
-  console.log("");
+  console.log("text");
 }
