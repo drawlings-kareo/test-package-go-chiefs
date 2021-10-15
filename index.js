@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 
 export default function getScore() {
-  console.log(get2018FinalScore());
+  console.log(getScore(2018));
 }
 
-function get2018FinalScore() {
-  return "Chiefs " + getChiefsScore() + " -- Rams " + getRamsScore();
+function getScore(year) {
+  return "Chiefs " + getChiefsScore() + " -- Rams " + getRamsScore() + " | " + year;
 }
 
 function getChiefsScore() {
