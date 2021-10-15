@@ -17,7 +17,7 @@ function getChiefsScore(year) {
   }
 }
 
-function getChiefsScore(year) {
+function getRamsScore(year) {
   switch (year) {
     case 2018:
       return 54;
