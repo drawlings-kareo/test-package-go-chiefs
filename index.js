@@ -5,13 +5,23 @@ export default function getScore() {
 }
 
 function getScore(year) {
-  return "Chiefs " + getChiefsScore() + " -- Rams " + getRamsScore() + " | " + year;
+  return "Chiefs " + getChiefsScore(year) + " -- Rams " + getRamsScore(year) + " | " + year;
 }
 
-function getChiefsScore() {
-  return 51;
+function getChiefsScore(year) {
+  switch (year) {
+    case 2018:
+      return 51;
+    default:
+      return 0;
+  }
 }
 
-function getRamsScore() {
-  return 54;
+function getChiefsScore(year) {
+  switch (year) {
+    case 2018:
+      return 54;
+    default:
+      return 0;
+  }
 }
