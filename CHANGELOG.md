@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.4.0...v0.5.0) (2021-10-15)
+
+
+### Features
+
+* add year as param ([a92535b](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/a92535b864a363a132ca4d87678a85e17ef3d711))
+* pass year to getTeamScore() ([5292b2e](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/5292b2e0b6b99b3ea44091e74783299e6c939f3c))
+
+
+### Bug Fixes
+
+* correct function name ([96c448a](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/96c448a9a7578e6020e6ec57b144d09a5b606355))
+
 ## [0.4.0](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/v0.3.1...v0.4.0) (2021-10-12)
 
 
