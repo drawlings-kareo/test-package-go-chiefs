@@ -1,17 +1,27 @@
 #!/usr/bin/env node
 
 export default function getScore() {
-  console.log(get2018FinalScore());
+  console.log(getScore(2018));
 }
 
-function get2018FinalScore() {
-  return "Chiefs " + getChiefsScore() + " -- Rams " + getRamsScore();
+function getScore(year) {
+  return "Chiefs " + getChiefsScore(year) + " -- Rams " + getRamsScore(year) + " | " + year;
 }
 
-function getChiefsScore() {
-  return 51;
+function getChiefsScore(year) {
+  switch (year) {
+    case 2018:
+      return 51;
+    default:
+      return 0;
+  }
 }
 
-function getRamsScore() {
-  return 54;
+function getRamsScore(year) {
+  switch (year) {
+    case 2018:
+      return 54;
+    default:
+      return 0;
+  }
 }
