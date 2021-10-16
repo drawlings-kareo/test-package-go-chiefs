@@ -6,7 +6,7 @@
   "bin": "index.js",
   "scripts": {
     "test": "test",
-    "release": "standard-version"
+    "release": "standard-version -t @drawlings-kareo/test-package-go-chiefs@"
   },
   "keywords": [
     "package",
