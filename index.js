@@ -5,7 +5,7 @@ export default function getScore() {
 }
 
 function getScore(year) {
-  return "Chiefs " + getChiefsScore(year) + " -- Rams " + getRamsScore(year) + " | " + year;
+  return "Chiefs " + getChiefsScore(year) + " - Rams " + getRamsScore(year) + " | " + year;
 }
 
 function getChiefsScore(year) {
