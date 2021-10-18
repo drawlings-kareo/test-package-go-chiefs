@@ -2,13 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.5.3](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/@drawlings-kareo/test-package-go-chiefs@0.5.2...@drawlings-kareo/test-package-go-chiefs@0.5.3) (2021-10-18)
-
-
-### Bug Fixes
-
-* remove dash ([0ac579a](https://github.com/drawlings-kareo/test-package-go-chiefs/commit/0ac579a72cfbc394d26421ab468820e3f6baaab6))
-
 ### [0.5.2](https://github.com/drawlings-kareo/test-package-go-chiefs/compare/@drawlings-kareo/test-package-go-chiefs@0.5.1...@drawlings-kareo/test-package-go-chiefs@0.5.2) (2021-10-16)
 
 ### Bug Fixes
