@@ -1,6 +1,6 @@
 {
   "name": "test-package-go-chiefs",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "A package for learning how to version and release",
   "main": "index.js",
   "bin": "index.js",
